@@ -10,8 +10,8 @@
     "dev": "concurrently \"npm start\" \"npm run client\" "
   },
   "keywords": [],
-  "author": "Techinfoyt",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "dependencies": {
     "colors": "^1.4.0",
     "concurrently": "^7.5.0",
